@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  background-color: #fcf8f3;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin: 30px;
+  color: #264e70;
+}
+
+h3 {
+  color: #264e70;
+}
+
+div {
+  margin: 0;
+  padding: 0;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 50px;
+  border-width: 7px;
+  border-color: #6e7da2;
+}
+
+.top-container {
+  background-color: #aedadd;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #db996c;
+  padding-top: 5px;
+  padding-bottom: 30px;
+}
+
+.bottom-container {
+  position: relative;
+  background-color: #6e7da2;
+  padding-top:20px;
+  padding-bottom: 20px;
+}
+
+.cloud1 {
+  position: absolute;
+  left: 20%;
+  top: 8%;
+}
+
+.cloud2 {
+  position: absolute;
+  right: 20%;
+  top: 30%;
+}
+
+.mountain {
+  position: relative;
+  top: 5px;
+}
+
+.titletext {
+  position: relative;
+  width: 500px;
+  top: 15px;
+  margin: 0 auto;
+  color: #264e70;
+  font-weight: normal;
+}
+
+.skill-row-1 {
+  width: 600px;
+  margin: 20px auto;
+  text-align: left;
+}
+
+.skill-row-2 {
+  width: 600px;
+  margin: 40px auto;
+  text-align: left;
+}
+
+.mara {
+  width: 200px
+}
+
+.pokeball {
+  width: 100px;
+  float: right;
+  margin-left: 10px;
+}
+
+.pentagram {
+  width: 100px;
+  float: right;
+  margin-left: 10px;
+}
+
+.contact-me {
+  width: 400px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.tell-em {
+  margin: 0 auto;
+  font-size: 60%;
+}
+
+.butn {
+  position: relative;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fcf8f3;
+  font-size: 1rem;
+  background: #264e70;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  top: 15px;
+}
+
+.butn:hover {
+  background: #aedadd;
+  text-decoration: none;
+}
+
+.footer-link {
+  margin: 20px;
+  text-decoration: none;
+  color: #264e70
+}
+
+.footer-link:hover {
+  color: #aedadd;
+  text-decoration: none;
+}
+
+.bottomtext {
+  margin-bottom: 0;
+  color: white;
+  font-size: 75%;
+}
